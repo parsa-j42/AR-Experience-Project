@@ -1,0 +1,5 @@
+/home/parsa_j42/AR Experience Project/.utmp/RelWithDebInfo/6vrq2f4r/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/parsa_j42/AR Experience Project/.utmp/RelWithDebInfo/6vrq2f4r/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/parsa_j42/AR Experience Project/.utmp/RelWithDebInfo/6vrq2f4r/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/home/parsa_j42/AR Experience Project/.utmp/RelWithDebInfo/6vrq2f4r/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/home/parsa_j42/AR Experience Project/.utmp/RelWithDebInfo/6vrq2f4r/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
