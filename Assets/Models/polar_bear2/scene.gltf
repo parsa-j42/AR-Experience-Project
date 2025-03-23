@@ -1,0 +1,390 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        2.581427574157715,
+        8.15091609954834,
+        8.03684139251709
+      ],
+      "min": [
+        -2.592397689819336,
+        0.013137966394424438,
+        -7.874448299407959
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 124668,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        0.9999864101409912,
+        0.9995555281639099,
+        0.9999266266822815
+      ],
+      "min": [
+        -0.9998728632926941,
+        -0.9999696612358093,
+        -0.9997009038925171
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        0.9999998807907104,
+        0.9998252987861633,
+        0.9998316764831543,
+        1.0
+      ],
+      "min": [
+        -0.9999977350234985,
+        -0.9997093677520752,
+        -0.9998705387115479,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        0.9907000064849854,
+        0.9904299974441528
+      ],
+      "min": [
+        0.007420000154525042,
+        0.008379995822906494
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 83112,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        0.9907000064849854,
+        0.9904299974441528
+      ],
+      "min": [
+        0.007420000154525042,
+        0.008379995822906494
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 166224,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        0.9907000064849854,
+        0.9904299974441528
+      ],
+      "min": [
+        0.007420000154525042,
+        0.008379995822906494
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 249336,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        0.9907000064849854,
+        0.9904299974441528
+      ],
+      "min": [
+        0.007420000154525042,
+        0.008379995822906494
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 332448,
+      "componentType": 5126,
+      "count": 10389,
+      "max": [
+        0.9907000064849854,
+        0.9904299974441528
+      ],
+      "min": [
+        0.007420000154525042,
+        0.008379995822906494
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 55314,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "AIUM2 (https://sketchfab.com/alfredonicolas)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/polar-bear-8c12dafa63ab470a8c2196a66052a0df",
+      "title": "Polar Bear"
+    },
+    "generator": "Sketchfab-12.97.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 221256,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 415560,
+      "byteOffset": 221256,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 249336,
+      "byteOffset": 636816,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 166224,
+      "byteOffset": 886152,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1052376,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/material_0_diffuse.png"
+    },
+    {
+      "uri": "textures/material_0_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/material_0_normal.png"
+    },
+    {
+      "uri": "textures/material_0_occlusion.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "material_0",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 3
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "RootNode.0_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "geo.1_1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "polar_bear.2_2"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_6"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

@@ -1147,6 +1147,10 @@
       <HintPath>Library/ScriptAssemblies/Unity.XR.ARFoundation.InternalUtils.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="glTFast.Editor">
+      <HintPath>Library/ScriptAssemblies/glTFast.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
       <HintPath>Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
@@ -1181,6 +1185,10 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="glTFast">
+      <HintPath>Library/ScriptAssemblies/glTFast.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
@@ -1285,6 +1293,10 @@
     </Reference>
     <Reference Include="Unity.AI.Navigation.Updater">
       <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="glTFast.dots">
+      <HintPath>Library/ScriptAssemblies/glTFast.dots.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">

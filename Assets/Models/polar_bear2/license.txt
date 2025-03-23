@@ -1,0 +1,11 @@
+Model Information:
+* title:	Polar Bear
+* source:	https://sketchfab.com/3d-models/polar-bear-8c12dafa63ab470a8c2196a66052a0df
+* author:	AIUM2 (https://sketchfab.com/alfredonicolas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Polar Bear" (https://sketchfab.com/3d-models/polar-bear-8c12dafa63ab470a8c2196a66052a0df) by AIUM2 (https://sketchfab.com/alfredonicolas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

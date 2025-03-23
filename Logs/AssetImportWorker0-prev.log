@@ -3,11 +3,11 @@ Branch:                  6000.0/staging
 Build type:              Release
 Batch mode:              YES
 System name:             Linux
-Distro version:          #1 SMP PREEMPT_DYNAMIC Fri Jan 17 18:03:20 UTC 2025
-Kernel version:          6.12.10-100.fc40.x86_64
+Distro version:          #1 SMP PREEMPT_DYNAMIC Thu Mar 13 17:46:13 UTC 2025
+Kernel version:          6.13.7-200.fc41.x86_64
 Architecture:            x86_64
 Window Protocol:         Wayland (XWayland)
-Available memory:        15322 MB
+Available memory:        15320 MB
 Using pre-set license
 Pro License: YES
 The selected window backend is (null) 
@@ -26,7 +26,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-28043
+24965
 -job-worker-count
 7
 -background-job-worker-count
@@ -35,9 +35,9 @@ Logs/AssetImportWorker0.log
 1
 Successfully changed project path to: /home/parsa_j42/AR Experience Project
 
-(Unity:136979): Gtk-CRITICAL **: 17:34:38.082: gtk_label_set_text: assertion 'GTK_IS_LABEL (label)' failed
+(Unity:195319): Gtk-CRITICAL **: 06:01:40.725: gtk_label_set_text: assertion 'GTK_IS_LABEL (label)' failed
 
-(Unity:136979): Gtk-CRITICAL **: 17:34:38.082: gtk_label_set_text: assertion 'GTK_IS_LABEL (label)' failed
+(Unity:195319): Gtk-CRITICAL **: 06:01:40.727: gtk_label_set_text: assertion 'GTK_IS_LABEL (label)' failed
 /home/parsa_j42/AR Experience Project
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
@@ -74,22 +74,28 @@ Successfully changed project path to: /home/parsa_j42/AR Experience Project
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [140515021927808]  Target information:
+Player connection [139711084401984]  Target information:
 
-Player connection [140515021927808]  * "[IP] 192.168.1.77 [Port] 0 [Flags] 2 [Guid] 2219464897 [EditorId] 2219464897 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+Player connection [139711084401984]  * "[IP] 192.168.1.77 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
 
-Player connection [140515021927808]  * "[IP] 172.19.0.1 [Port] 0 [Flags] 2 [Guid] 2219464897 [EditorId] 2219464897 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+Player connection [139711084401984]  * "[IP] 172.24.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
 
-Player connection [140515021927808]  * "[IP] 172.17.0.1 [Port] 0 [Flags] 2 [Guid] 2219464897 [EditorId] 2219464897 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+Player connection [139711084401984]  * "[IP] 172.21.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
 
-Player connection [140515021927808]  * "[IP] 172.20.0.1 [Port] 0 [Flags] 2 [Guid] 2219464897 [EditorId] 2219464897 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+Player connection [139711084401984]  * "[IP] 172.23.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
 
-Player connection [140515021927808]  * "[IP] 172.21.0.1 [Port] 0 [Flags] 2 [Guid] 2219464897 [EditorId] 2219464897 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+Player connection [139711084401984]  * "[IP] 172.18.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
 
-Player connection [140515021927808]  * "[IP] 172.18.0.1 [Port] 0 [Flags] 2 [Guid] 2219464897 [EditorId] 2219464897 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+Player connection [139711084401984]  * "[IP] 172.22.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
 
-Player connection [140515021927808] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [140515021927808] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [139711084401984]  * "[IP] 172.19.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+
+Player connection [139711084401984]  * "[IP] 172.17.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+
+Player connection [139711084401984]  * "[IP] 172.20.0.1 [Port] 0 [Flags] 2 [Guid] 122693284 [EditorId] 122693284 [Version] 1048832 [Id] LinuxEditor(16,192.168.1.77) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+
+Player connection [139711084401984] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [139711084401984] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 7
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -101,7 +107,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 3.87 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 12.99 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.39f1 (15ea7ed0b100)
 [Subsystems] Discovering subsystems at path /home/parsa_j42/Unity/Hub/Editor/6000.0.39f1/Editor/Data/Resources/UnitySubsystems
@@ -109,65 +115,65 @@ Initialize engine version: 6000.0.39f1 (15ea7ed0b100)
 kGfxThreadingModeNonThreaded is not supported on OpenGL Core. Reverting to kGfxThreadingModeDirect instead.
 GfxDevice: creating device client; kGfxThreadingModeDirect
 GLX Extensions: GLX_ARB_context_flush_control GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_MESA_copy_sub_buffer GLX_MESA_gl_interop GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_video_sync 
-Renderer: AMD Radeon Graphics (radeonsi, renoir, LLVM 18.1.6, DRM 3.59, 6.12.10-100.fc40.x86_64)
+Renderer: AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.61, 6.13.7-200.fc41.x86_64)
 Vendor:   AMD
-Version:  4.6 (Core Profile) Mesa 24.1.7
+Version:  4.6 (Core Profile) Mesa 25.0.1
 GLES:     0
  GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
 ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
 _buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensio
-ns GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex
-_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3t
-c GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_dept
-h_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1550952128
+ns GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex
+_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_d
+xt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_
+control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 801802928
 Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
 Initialize mono
 Mono path[0] = '/home/parsa_j42/Unity/Hub/Editor/6000.0.39f1/Editor/Data/Managed'
 Mono path[1] = '/home/parsa_j42/Unity/Hub/Editor/6000.0.39f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
 Mono config path = '/home/parsa_j42/Unity/Hub/Editor/6000.0.39f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56979
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56319
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /home/parsa_j42/Unity/Hub/Editor/6000.0.39f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /home/parsa_j42/Unity/Hub/Editor/6000.0.39f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /home/parsa_j42/Unity/Hub/Editor/6000.0.39f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.013914 seconds.
-- Loaded All Assemblies, in  0.722 seconds
+Registered in 0.019652 seconds.
+- Loaded All Assemblies, in  1.231 seconds
 Native extension for LinuxStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 554 ms
+Android Extension - Scanning For ADB Devices 840 ms
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.336 seconds
-Domain Reload Profiling: 2058ms
-	BeginReloadAssembly (233ms)
+- Finished resetting the current domain, in  2.086 seconds
+Domain Reload Profiling: 3316ms
+	BeginReloadAssembly (484ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (54ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (96ms)
-	LoadAllAssembliesAndSetupDomain (326ms)
-		LoadAssemblies (238ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (113ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (162ms)
+	LoadAllAssembliesAndSetupDomain (448ms)
+		LoadAssemblies (487ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (315ms)
-			TypeCache.Refresh (310ms)
-				TypeCache.ScanAssembly (282ms)
+		AnalyzeDomain (435ms)
+			TypeCache.Refresh (431ms)
+				TypeCache.ScanAssembly (396ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (1337ms)
+	FinalizeReload (2086ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1246ms)
+		SetupLoadedEditorAssemblies (1926ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (783ms)
-			SetLoadedEditorAssemblies (12ms)
-			BeforeProcessingInitializeOnLoad (126ms)
-			ProcessInitializeOnLoadAttributes (224ms)
-			ProcessInitializeOnLoadMethodAttributes (100ms)
+			InitializePlatformSupportModulesInManaged (1280ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (173ms)
+			ProcessInitializeOnLoadAttributes (307ms)
+			ProcessInitializeOnLoadMethodAttributes (154ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -176,12 +182,15 @@ Domain Reload Profiling: 2058ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.355 seconds
-Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+- Loaded All Assemblies, in  3.158 seconds
+Refreshing native plugins compatible for Editor in 8.91 ms, found 1 plugins.
 Native extension for LinuxStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
@@ -192,140 +201,1078 @@ Mono: successfully reloaded assembly
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.396 seconds
-Domain Reload Profiling: 2731ms
-	BeginReloadAssembly (239ms)
+- Finished resetting the current domain, in  2.531 seconds
+Domain Reload Profiling: 5675ms
+	BeginReloadAssembly (381ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (8ms)
+		DisableScriptedObjects (14ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (72ms)
-	RebuildCommonClasses (59ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (63ms)
-	LoadAllAssembliesAndSetupDomain (961ms)
-		LoadAssemblies (656ms)
+		CreateAndSetChildDomain (84ms)
+	RebuildCommonClasses (140ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (107ms)
+	LoadAllAssembliesAndSetupDomain (2482ms)
+		LoadAssemblies (1770ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (419ms)
-			TypeCache.Refresh (325ms)
-				TypeCache.ScanAssembly (290ms)
-			BuildScriptInfoCaches (76ms)
-			ResolveRequiredComponents (14ms)
-	FinalizeReload (1397ms)
+		AnalyzeDomain (919ms)
+			TypeCache.Refresh (704ms)
+				TypeCache.ScanAssembly (660ms)
+			BuildScriptInfoCaches (174ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (2532ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (972ms)
+		SetupLoadedEditorAssemblies (1641ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (23ms)
-			SetLoadedEditorAssemblies (8ms)
-			BeforeProcessingInitializeOnLoad (213ms)
-			ProcessInitializeOnLoadAttributes (532ms)
-			ProcessInitializeOnLoadMethodAttributes (187ms)
-			AfterProcessingInitializeOnLoad (10ms)
-			EditorAssembliesLoaded (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (13ms)
+			BeforeProcessingInitializeOnLoad (423ms)
+			ProcessInitializeOnLoadAttributes (869ms)
+			ProcessInitializeOnLoadMethodAttributes (292ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (4ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
 Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-AutoLocale: current locale expects 'C' but got 'en_CA.UTF-8'Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+AutoLocale: current locale expects 'C' but got 'en_CA.UTF-8'Launched and connected shader compiler UnityShaderCompiler after 0.11 seconds
+Refreshing native plugins compatible for Editor in 3.57 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 213 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6738 unused Assets / (10.5 MB). Loaded Objects now: 7399.
-Memory consumption went from 160.9 MB to 150.4 MB.
-Total: 25.491918 ms (FindLiveObjects: 1.385778 ms CreateObjectMapping: 1.693395 ms MarkObjects: 9.226730 ms  DeleteObjects: 13.182969 ms)
+Unloading 225 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6993 unused Assets / (9.6 MB). Loaded Objects now: 7669.
+Memory consumption went from 165.4 MB to 155.8 MB.
+Total: 38.451878 ms (FindLiveObjects: 1.979101 ms CreateObjectMapping: 3.421565 ms MarkObjects: 15.904612 ms  DeleteObjects: 17.143194 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 26025.530097 seconds.
-  path: Assets/InputSystem_Actions.inputactions
-  artifactKey: Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/InputSystem_Actions.inputactions using Guid(052faaac586de48259a63d0c4782560b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)UpdateMenuTitleForLanguage: 10
- -> (artifact id: 'affa7542280a98d120f75e6a0db302bb') in 0.57795652 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/TutorialInfo/Layout.wlt
-  artifactKey: Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/TutorialInfo/Layout.wlt using Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5c0ac5ce42139f763ffc1ae99506fc03') in 0.003577829 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 47310.033838 seconds.
+  path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset
+  artifactKey: Guid(f675ceec4f14c1ef89a542ea1bec0443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettingsPerBuildTarget.asset using Guid(f675ceec4f14c1ef89a542ea1bec0443) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bd34f748267314ea3b4935a72f06439') in 0.059326539 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000032 seconds.
-  path: Assets/TutorialInfo/Icons/URP.png
-  artifactKey: Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/TutorialInfo/Icons/URP.png using Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cadae27f3523e855a50291c0f4985301') in 0.064778722 seconds
+  path: Assets/XR/Settings/ARCoreSettings.asset
+  artifactKey: Guid(e2b336a8ae9ff7ba69323d80c72e962a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/ARCoreSettings.asset using Guid(e2b336a8ae9ff7ba69323d80c72e962a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd43b39e28195ab0359bdc3c4e21371d2') in 0.002391143 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset
-  artifactKey: Guid(3032a71303eb7822cac90670122b2c29) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset using Guid(3032a71303eb7822cac90670122b2c29) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7b8e0066ea2af42e76b5f1d26bb2b872') in 0.030733266 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+  Time since last request: 0.000031 seconds.
+  path: Assets/Models/polar_bear2/textures/material_0_normal.png
+  artifactKey: Guid(80d906351a156b3de9e3ee068ec2c5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/polar_bear2/textures/material_0_normal.png using Guid(80d906351a156b3de9e3ee068ec2c5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23c063c3082e4f8e59469ac360506694') in 0.529195972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
 ========================================================================
 Received Import Request.
-  Time since last request: 386.221308 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ac684e647385d33af6669f9df3fafd6d') in 0.011320998 seconds
+  Time since last request: 0.000046 seconds.
+  path: Assets/Models/polar_bear2/textures/material_0_specularGlossiness.png
+  artifactKey: Guid(53c4046c225e2a473a81cd999d31cfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/polar_bear2/textures/material_0_specularGlossiness.png using Guid(53c4046c225e2a473a81cd999d31cfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26fea41c61e6a39e5d40d76094cbbad7') in 0.420409964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1011.320394 seconds.
+  path: Assets/XR/UserSimulationSettings/SimulationEnvironmentAssetsManager.asset
+  artifactKey: Guid(c1f3422c7efe794f7918981476bd9744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/UserSimulationSettings/SimulationEnvironmentAssetsManager.asset using Guid(c1f3422c7efe794f7918981476bd9744) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83eaba4f5821700716e7d3d50357b4e6') in 0.046827052 seconds
 Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 474.768704 seconds.
-  path: Assets/Resources/PerformanceTestRunInfo.json
-  artifactKey: Guid(4f15c07974be8f30c8b85d6b0b89bd9d) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/Resources/PerformanceTestRunInfo.json using Guid(4f15c07974be8f30c8b85d6b0b89bd9d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7cc9eaaf39803aeb834ba4ea14e63ca0') in 0.011213906 seconds
-Number of updated asset objects reloaded before import = 2Number of asset objects unloaded after import = 1
+  Time since last request: 0.075449 seconds.
+  path: Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset
+  artifactKey: Guid(3032a71303eb7822cac90670122b2c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset using Guid(3032a71303eb7822cac90670122b2c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd464588d7de87be85cba4fd2e19f5eb8') in 0.08497968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TutorialInfo/Icons/URP.png
+  artifactKey: Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Icons/URP.png using Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c031eac3559f75b29b9b6184b85c312') in 0.062571274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
 ========================================================================
 Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.404 seconds
+Refreshing native plugins compatible for Editor in 2.21 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.909 seconds
+Domain Reload Profiling: 4311ms
+	BeginReloadAssembly (806ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (39ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (302ms)
+	RebuildCommonClasses (105ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (95ms)
+	LoadAllAssembliesAndSetupDomain (1371ms)
+		LoadAssemblies (1124ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (564ms)
+			TypeCache.Refresh (31ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (484ms)
+			ResolveRequiredComponents (29ms)
+	FinalizeReload (1910ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1329ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (302ms)
+			ProcessInitializeOnLoadAttributes (804ms)
+			ProcessInitializeOnLoadMethodAttributes (169ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
 Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-Refreshing native plugins compatible for Editor in 3.39 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 2.80 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 36 unused Assets / (4.5 MB). Loaded Objects now: 7418.
-Memory consumption went from 138.5 MB to 134.0 MB.
-Total: 49.307222 ms (FindLiveObjects: 1.841403 ms CreateObjectMapping: 0.836519 ms MarkObjects: 41.364079 ms  DeleteObjects: 5.260724 ms)
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6990 unused Assets / (9.8 MB). Loaded Objects now: 7693.
+Memory consumption went from 149.2 MB to 139.5 MB.
+Total: 24.840707 ms (FindLiveObjects: 1.258690 ms CreateObjectMapping: 1.102056 ms MarkObjects: 12.380384 ms  DeleteObjects: 10.096993 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Prepare
 Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
-Refreshing native plugins compatible for Editor in 2.95 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 3.49 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 34 unused Assets / (4.6 MB). Loaded Objects now: 7418.
-Memory consumption went from 138.3 MB to 133.7 MB.
-Total: 31.621802 ms (FindLiveObjects: 1.292474 ms CreateObjectMapping: 0.507211 ms MarkObjects: 23.638633 ms  DeleteObjects: 6.178826 ms)
+Unloading 6978 unused Assets / (10.7 MB). Loaded Objects now: 7689.
+Memory consumption went from 149.4 MB to 138.6 MB.
+Total: 42.916340 ms (FindLiveObjects: 1.891466 ms CreateObjectMapping: 2.324239 ms MarkObjects: 20.960802 ms  DeleteObjects: 17.736447 ms)
 
-Prepare: number of updated asset objects reloaded= 22
+Prepare: number of updated asset objects reloaded= 1
 ========================================================================
-Received Import Request.
-  Time since last request: 115.263734 seconds.
-  path: Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/Settings/UniversalRenderPipelineGlobalSettings.asset using Guid(18dc0cd2c080841dea60987a38ce93fa) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5d2c6b520fc1f4d997b452d1948de921') in 0.217359838 seconds
-Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.551 seconds
+Refreshing native plugins compatible for Editor in 2.22 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.825 seconds
+Domain Reload Profiling: 3371ms
+	BeginReloadAssembly (318ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (100ms)
+	RebuildCommonClasses (90ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (1049ms)
+		LoadAssemblies (738ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (438ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (392ms)
+			ResolveRequiredComponents (26ms)
+	FinalizeReload (1826ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1279ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (303ms)
+			ProcessInitializeOnLoadAttributes (720ms)
+			ProcessInitializeOnLoadMethodAttributes (204ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6990 unused Assets / (9.7 MB). Loaded Objects now: 7696.
+Memory consumption went from 151.1 MB to 141.4 MB.
+Total: 25.680843 ms (FindLiveObjects: 1.370871 ms CreateObjectMapping: 1.184140 ms MarkObjects: 14.270087 ms  DeleteObjects: 8.852178 ms)
 
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.022666 seconds.
-  path: Assets/XR/Temp/XRSimulationRuntimeSettings.asset
-  artifactKey: Guid(b9ffdd2bced6539b4993abbf51319ac5) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/XR/Temp/XRSimulationRuntimeSettings.asset using Guid(b9ffdd2bced6539b4993abbf51319ac5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '67567db167e9f069eedbb5420e681595') in 0.024814969 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.518 seconds
+Refreshing native plugins compatible for Editor in 2.17 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.794 seconds
+Domain Reload Profiling: 3307ms
+	BeginReloadAssembly (299ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (100ms)
+	RebuildCommonClasses (95ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (1031ms)
+		LoadAssemblies (671ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (466ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (417ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1795ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1285ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (304ms)
+			ProcessInitializeOnLoadAttributes (710ms)
+			ProcessInitializeOnLoadMethodAttributes (168ms)
+			AfterProcessingInitializeOnLoad (66ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6988 unused Assets / (9.8 MB). Loaded Objects now: 7701.
+Memory consumption went from 151.1 MB to 141.3 MB.
+Total: 24.603582 ms (FindLiveObjects: 1.265763 ms CreateObjectMapping: 1.228944 ms MarkObjects: 12.436840 ms  DeleteObjects: 9.669541 ms)
 
+Prepare: number of updated asset objects reloaded= 1
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/XR/Temp/XRSimulationPreferences.asset
-  artifactKey: Guid(3032a71303eb7822cac90670122b2c29) Importer(2089858483,192608db42251d675da83286b1cce702)
-Start importing Assets/XR/Temp/XRSimulationPreferences.asset using Guid(3032a71303eb7822cac90670122b2c29) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1acd73474efabfa50b12fe982dadf978') in 0.03178587 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 3.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6976 unused Assets / (9.6 MB). Loaded Objects now: 7697.
+Memory consumption went from 150.8 MB to 141.2 MB.
+Total: 35.497339 ms (FindLiveObjects: 1.587787 ms CreateObjectMapping: 2.336261 ms MarkObjects: 17.982468 ms  DeleteObjects: 13.587477 ms)
 
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.477 seconds
+Refreshing native plugins compatible for Editor in 2.24 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.693 seconds
+Domain Reload Profiling: 3165ms
+	BeginReloadAssembly (313ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (111ms)
+	RebuildCommonClasses (89ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (984ms)
+		LoadAssemblies (630ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (455ms)
+			TypeCache.Refresh (20ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (399ms)
+			ResolveRequiredComponents (26ms)
+	FinalizeReload (1694ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1190ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (288ms)
+			ProcessInitializeOnLoadAttributes (690ms)
+			ProcessInitializeOnLoadMethodAttributes (163ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6988 unused Assets / (9.8 MB). Loaded Objects now: 7704.
+Memory consumption went from 150.7 MB to 140.9 MB.
+Total: 23.779447 ms (FindLiveObjects: 1.242319 ms CreateObjectMapping: 1.126261 ms MarkObjects: 11.205641 ms  DeleteObjects: 10.202671 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.677 seconds
+Refreshing native plugins compatible for Editor in 2.40 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.717 seconds
+Domain Reload Profiling: 3390ms
+	BeginReloadAssembly (409ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (123ms)
+	RebuildCommonClasses (92ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (1081ms)
+		LoadAssemblies (768ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (479ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (419ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1718ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1196ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (280ms)
+			ProcessInitializeOnLoadAttributes (702ms)
+			ProcessInitializeOnLoadMethodAttributes (164ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6990 unused Assets / (9.8 MB). Loaded Objects now: 7705.
+Memory consumption went from 150.6 MB to 140.8 MB.
+Total: 23.490576 ms (FindLiveObjects: 1.276874 ms CreateObjectMapping: 1.313843 ms MarkObjects: 11.606172 ms  DeleteObjects: 9.290910 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.614 seconds
+Refreshing native plugins compatible for Editor in 2.15 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.728 seconds
+Domain Reload Profiling: 3335ms
+	BeginReloadAssembly (317ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (102ms)
+	RebuildCommonClasses (90ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (1111ms)
+		LoadAssemblies (775ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (458ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (403ms)
+			ResolveRequiredComponents (28ms)
+	FinalizeReload (1729ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1219ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (290ms)
+			ProcessInitializeOnLoadAttributes (716ms)
+			ProcessInitializeOnLoadMethodAttributes (164ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6990 unused Assets / (9.9 MB). Loaded Objects now: 7708.
+Memory consumption went from 151.2 MB to 141.3 MB.
+Total: 24.155011 ms (FindLiveObjects: 1.281833 ms CreateObjectMapping: 1.205740 ms MarkObjects: 11.245757 ms  DeleteObjects: 10.417524 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.524 seconds
+Refreshing native plugins compatible for Editor in 2.18 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.731 seconds
+Domain Reload Profiling: 3250ms
+	BeginReloadAssembly (304ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (104ms)
+	RebuildCommonClasses (91ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (1034ms)
+		LoadAssemblies (682ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (461ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (407ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1732ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1226ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (305ms)
+			ProcessInitializeOnLoadAttributes (708ms)
+			ProcessInitializeOnLoadMethodAttributes (162ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (25ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6990 unused Assets / (9.8 MB). Loaded Objects now: 7711.
+Memory consumption went from 151.1 MB to 141.3 MB.
+Total: 23.682014 ms (FindLiveObjects: 1.266184 ms CreateObjectMapping: 1.516434 ms MarkObjects: 11.507056 ms  DeleteObjects: 9.389015 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.720 seconds
+Refreshing native plugins compatible for Editor in 2.26 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.911 seconds
+Domain Reload Profiling: 4629ms
+	BeginReloadAssembly (1020ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (60ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (3ms)
+		CreateAndSetChildDomain (355ms)
+	RebuildCommonClasses (96ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (98ms)
+	LoadAllAssembliesAndSetupDomain (1480ms)
+		LoadAssemblies (1222ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (631ms)
+			TypeCache.Refresh (45ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (535ms)
+			ResolveRequiredComponents (30ms)
+	FinalizeReload (1912ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1338ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (31ms)
+			SetLoadedEditorAssemblies (14ms)
+			BeforeProcessingInitializeOnLoad (342ms)
+			ProcessInitializeOnLoadAttributes (754ms)
+			ProcessInitializeOnLoadMethodAttributes (180ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6991 unused Assets / (9.8 MB). Loaded Objects now: 7715.
+Memory consumption went from 151.1 MB to 141.4 MB.
+Total: 31.172299 ms (FindLiveObjects: 1.650996 ms CreateObjectMapping: 2.369944 ms MarkObjects: 14.736562 ms  DeleteObjects: 12.410961 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.549 seconds
+Refreshing native plugins compatible for Editor in 2.23 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.015 seconds
+Domain Reload Profiling: 3560ms
+	BeginReloadAssembly (282ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (92ms)
+	RebuildCommonClasses (94ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (1077ms)
+		LoadAssemblies (692ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (486ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (427ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (2016ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1460ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (389ms)
+			ProcessInitializeOnLoadAttributes (814ms)
+			ProcessInitializeOnLoadMethodAttributes (205ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6990 unused Assets / (9.8 MB). Loaded Objects now: 7717.
+Memory consumption went from 151.2 MB to 141.4 MB.
+Total: 26.972154 ms (FindLiveObjects: 1.417699 ms CreateObjectMapping: 1.675381 ms MarkObjects: 13.020164 ms  DeleteObjects: 10.853992 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 3.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6979 unused Assets / (9.9 MB). Loaded Objects now: 7714.
+Memory consumption went from 151.3 MB to 141.4 MB.
+Total: 32.953529 ms (FindLiveObjects: 2.014337 ms CreateObjectMapping: 2.122280 ms MarkObjects: 17.220158 ms  DeleteObjects: 11.592977 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.640 seconds
+Refreshing native plugins compatible for Editor in 2.24 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.825 seconds
+Domain Reload Profiling: 3456ms
+	BeginReloadAssembly (336ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (117ms)
+	RebuildCommonClasses (93ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (74ms)
+	LoadAllAssembliesAndSetupDomain (1104ms)
+		LoadAssemblies (745ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (474ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (417ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1826ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1301ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (297ms)
+			ProcessInitializeOnLoadAttributes (771ms)
+			ProcessInitializeOnLoadMethodAttributes (181ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6991 unused Assets / (9.7 MB). Loaded Objects now: 7721.
+Memory consumption went from 151.1 MB to 141.4 MB.
+Total: 27.747908 ms (FindLiveObjects: 1.391660 ms CreateObjectMapping: 2.026610 ms MarkObjects: 13.052854 ms  DeleteObjects: 11.273688 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.497 seconds
+Refreshing native plugins compatible for Editor in 2.18 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.790 seconds
+Domain Reload Profiling: 3282ms
+	BeginReloadAssembly (313ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (100ms)
+	RebuildCommonClasses (98ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (993ms)
+		LoadAssemblies (637ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (461ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (407ms)
+			ResolveRequiredComponents (27ms)
+	FinalizeReload (1791ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1265ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (290ms)
+			ProcessInitializeOnLoadAttributes (739ms)
+			ProcessInitializeOnLoadMethodAttributes (185ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6991 unused Assets / (9.8 MB). Loaded Objects now: 7724.
+Memory consumption went from 151.1 MB to 141.3 MB.
+Total: 26.737183 ms (FindLiveObjects: 1.316729 ms CreateObjectMapping: 1.253190 ms MarkObjects: 14.692348 ms  DeleteObjects: 9.472001 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.804 seconds
+Refreshing native plugins compatible for Editor in 2.22 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.859 seconds
+Domain Reload Profiling: 4623ms
+	BeginReloadAssembly (836ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (47ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (259ms)
+	RebuildCommonClasses (108ms)
+	RebuildNativeTypeToScriptingClass (25ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (1689ms)
+		LoadAssemblies (1395ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (619ms)
+			TypeCache.Refresh (35ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (534ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (1860ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1282ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (292ms)
+			ProcessInitializeOnLoadAttributes (739ms)
+			ProcessInitializeOnLoadMethodAttributes (199ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (34ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6991 unused Assets / (9.9 MB). Loaded Objects now: 7727.
+Memory consumption went from 151.2 MB to 141.3 MB.
+Total: 24.536297 ms (FindLiveObjects: 1.378245 ms CreateObjectMapping: 1.324654 ms MarkObjects: 12.828343 ms  DeleteObjects: 9.002270 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (4.5 MB). Loaded Objects now: 7732.
+Memory consumption went from 147.4 MB to 142.9 MB.
+Total: 100.715245 ms (FindLiveObjects: 1.036273 ms CreateObjectMapping: 0.719359 ms MarkObjects: 94.741394 ms  DeleteObjects: 4.214453 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.323 seconds
+Refreshing native plugins compatible for Editor in 2.31 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.867 seconds
+Domain Reload Profiling: 4186ms
+	BeginReloadAssembly (763ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (41ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (261ms)
+	RebuildCommonClasses (91ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (87ms)
+	LoadAllAssembliesAndSetupDomain (1354ms)
+		LoadAssemblies (1127ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (544ms)
+			TypeCache.Refresh (37ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (464ms)
+			ResolveRequiredComponents (28ms)
+	FinalizeReload (1868ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1321ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (326ms)
+			ProcessInitializeOnLoadAttributes (764ms)
+			ProcessInitializeOnLoadMethodAttributes (176ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6989 unused Assets / (9.7 MB). Loaded Objects now: 7735.
+Memory consumption went from 150.7 MB to 141.0 MB.
+Total: 26.625003 ms (FindLiveObjects: 1.416927 ms CreateObjectMapping: 1.923005 ms MarkObjects: 12.872256 ms  DeleteObjects: 10.410239 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 3.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (4.5 MB). Loaded Objects now: 7735.
+Memory consumption went from 146.8 MB to 142.4 MB.
+Total: 65.354963 ms (FindLiveObjects: 1.672876 ms CreateObjectMapping: 1.327208 ms MarkObjects: 58.193766 ms  DeleteObjects: 4.157065 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 3.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (4.5 MB). Loaded Objects now: 7735.
+Memory consumption went from 146.9 MB to 142.4 MB.
+Total: 23.392552 ms (FindLiveObjects: 1.081107 ms CreateObjectMapping: 0.651121 ms MarkObjects: 16.046368 ms  DeleteObjects: 5.610640 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.976 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.836 seconds
+Domain Reload Profiling: 3808ms
+	BeginReloadAssembly (552ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (31ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (232ms)
+	RebuildCommonClasses (94ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (70ms)
+	LoadAllAssembliesAndSetupDomain (1233ms)
+		LoadAssemblies (874ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (521ms)
+			TypeCache.Refresh (25ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (454ms)
+			ResolveRequiredComponents (28ms)
+	FinalizeReload (1837ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1286ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (313ms)
+			ProcessInitializeOnLoadAttributes (754ms)
+			ProcessInitializeOnLoadMethodAttributes (167ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6991 unused Assets / (9.5 MB). Loaded Objects now: 7736.
+Memory consumption went from 150.7 MB to 141.2 MB.
+Total: 25.034891 ms (FindLiveObjects: 1.368436 ms CreateObjectMapping: 1.603427 ms MarkObjects: 12.319900 ms  DeleteObjects: 9.740635 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6977 unused Assets / (9.9 MB). Loaded Objects now: 7734.
+Memory consumption went from 151.3 MB to 141.4 MB.
+Total: 33.791480 ms (FindLiveObjects: 1.331878 ms CreateObjectMapping: 1.640566 ms MarkObjects: 20.627908 ms  DeleteObjects: 10.188534 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.624 seconds
+Refreshing native plugins compatible for Editor in 2.32 ms, found 1 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.974 seconds
+Domain Reload Profiling: 4596ms
+	BeginReloadAssembly (903ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (61ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (342ms)
+	RebuildCommonClasses (95ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (101ms)
+	LoadAllAssembliesAndSetupDomain (1498ms)
+		LoadAssemblies (1145ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (644ms)
+			TypeCache.Refresh (42ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (555ms)
+			ResolveRequiredComponents (29ms)
+	FinalizeReload (1975ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1364ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (338ms)
+			ProcessInitializeOnLoadAttributes (761ms)
+			ProcessInitializeOnLoadMethodAttributes (204ms)
+			AfterProcessingInitializeOnLoad (19ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (34ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6991 unused Assets / (9.8 MB). Loaded Objects now: 7739.
+Memory consumption went from 150.6 MB to 140.9 MB.
+Total: 26.393288 ms (FindLiveObjects: 1.607113 ms CreateObjectMapping: 1.659171 ms MarkObjects: 12.978505 ms  DeleteObjects: 10.146275 ms)
+
+Prepare: number of updated asset objects reloaded= 1
